@@ -1,0 +1,9 @@
+import React from "react";
+
+function PrecoProd({ value }: { value: string }) {
+  return (
+    <h3>{value}</h3>
+  );
+}
+
+export default PrecoProd;
