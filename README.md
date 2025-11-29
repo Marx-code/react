@@ -20,7 +20,7 @@ A arquitetura do projeto prioriza a reutilização de código, o gerenciamento e
 * **React.js**
 * **React Router DOM** (Navegação/Roteamento)
 * **Bootstrap 5** (Estilização e Grid System)
-* **JavaScript (ES6+)**
+* **Typescript**
 
 ## 🚀 Como Executar o Projeto
 
